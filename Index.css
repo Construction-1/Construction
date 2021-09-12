@@ -1,0 +1,43 @@
+#demo{
+	margin-top: 70px;
+	margin-bottom: 30px;
+}
+.bg{
+     background-color: rebeccapurple;
+  }
+
+  .bg1{
+    background-color: dodgerblue;
+  }
+
+h3{
+   color: rebeccapurple;
+}
+.testimonial p {
+    color: #fff;
+    line-height: 19px;
+    font-size: 13px;
+    margin-top: 16px
+}
+
+.testimonial h5 {
+    color: #9c27b0;
+    text-transform: uppercase;
+    font-size: 15px;
+    margin-top: 8px
+}
+
+body {
+    background: #9c27b0
+}
+
+.col-md-4 {
+    margin-top: 25px
+}
+hr{
+    margin: 12px 0 ;
+    border: 0;
+    text-align: center;
+    color: rebeccapurple;
+
+}
